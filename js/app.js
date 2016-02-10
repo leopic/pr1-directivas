@@ -15,7 +15,7 @@ angular.module('proyectoUno', [])
     })
     /**
      * Uso:
-     * <tarjeta-de-usuario>
+     * <tarjeta-de-usuario></tarjeta-de-usuario>
      */
     .directive('tarjetaDeUsuario', function() {
         return {
@@ -31,7 +31,7 @@ angular.module('proyectoUno', [])
     })
     /**
      * Uso:
-     * <tarjeta-version-dos>
+     * <tarjeta-version-dos></tarjeta-version-dos>
      */
     .directive('tarjetaVersionDos', function() {
         return {
@@ -43,7 +43,7 @@ angular.module('proyectoUno', [])
     })
     /**
      * Uso:
-     * <tarjeta-version-dos>
+     * <tarjeta-version-tres></tarjeta-version-tres>
      */
     .directive('tarjetaVersionTres', function() {
         return {
@@ -61,7 +61,7 @@ angular.module('proyectoUno', [])
     })
     /**
      * Uso:
-     * <input-doble>
+     * <input-doble></input-doble>
      */
     .directive('inputDoble', function() {
         /**
